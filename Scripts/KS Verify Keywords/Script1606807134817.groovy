@@ -20,9 +20,9 @@ WebUI.comment('Assert sample - KS keyword')
 WebUI.openBrowser('google.com')
 
 WebUI.verifyEqual(1, 1)
-
-WebUI.verifyEqual(1, 0, FailureHandling.CONTINUE_ON_FAILURE)
-
+for(int i=0; i <= 99; i++) {
+	WebUI.verifyEqual(i, 0, FailureHandling.CONTINUE_ON_FAILURE)
+}
 WebUI.verifyAlertPresent(5, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.comment('Just to check if this step is run')

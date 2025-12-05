@@ -17,8 +17,9 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.comment('Assert sample - Groovy assert')
 
-assert 0 == 0 // Check if log has an entry for this step
-
+for(int i=0; i <= 99; i++) {
+	assert i == i
+}
 assert 0 == 1 // Stop execution 
 
 WebUI.comment('this step should not be run')

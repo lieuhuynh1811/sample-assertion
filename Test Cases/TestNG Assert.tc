@@ -4,5 +4,6 @@
    <name>TestNG Assert</name>
    <tag></tag>
    <comment>This should not be run</comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>44e2c9f3-4820-4e20-a7b5-22c213e42c67</testCaseGuid>
 </TestCaseEntity>

@@ -4,5 +4,6 @@
    <name>Groovy Assert</name>
    <tag></tag>
    <comment>this step should not be run</comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>4e7f006d-1ce0-4085-ab84-6b237c998c2d</testCaseGuid>
 </TestCaseEntity>

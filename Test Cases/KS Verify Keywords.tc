@@ -4,5 +4,6 @@
    <name>KS Verify Keywords</name>
    <tag></tag>
    <comment>Just to check if this step is run</comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>9f7f53e0-4c39-421a-9d62-ff77e88ebf32</testCaseGuid>
 </TestCaseEntity>

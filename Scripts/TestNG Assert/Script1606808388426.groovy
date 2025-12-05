@@ -19,8 +19,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
 WebUI.comment('Assert sample - TestNG assert')
-
-Assert.assertEquals(1, 1)
+for(int i=0; i <= 99; i++) {
+	Assert.assertEquals(i,i)ß
+}
 
 Assert.assertEquals(1, 0)
 

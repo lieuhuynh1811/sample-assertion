@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "201371A3B76BB0C147E8D769C62F10F0",
+  "keywordClasses": [
+    {
+      "name": "com.ks.custom.SampleCustomKeyword",
+      "keywordMethods": [
+        {
+          "name": "assertNormalTrue",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "assertNormalFail",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "assertWithTry",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
