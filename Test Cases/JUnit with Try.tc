@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JUnit with Try</name>
+   <tag></tag>
+   <comment>This step should not be run</comment>
+   <testCaseGuid>c0f646ba-8828-4b8f-8ab4-4b3d0b485eca</testCaseGuid>
+</TestCaseEntity>

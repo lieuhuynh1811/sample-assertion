@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JUnit Assert</name>
+   <tag></tag>
+   <comment>this step should not be run</comment>
+   <testCaseGuid>f3427105-12a7-497c-b52e-6a643d2b02c6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestNG Assert</name>
+   <tag></tag>
+   <comment>This should not be run</comment>
+   <testCaseGuid>44e2c9f3-4820-4e20-a7b5-22c213e42c67</testCaseGuid>
+</TestCaseEntity>

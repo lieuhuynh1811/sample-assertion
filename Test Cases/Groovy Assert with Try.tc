@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Groovy Assert with Try</name>
+   <tag></tag>
+   <comment>This step should not be run</comment>
+   <testCaseGuid>3b43754d-8bc1-4d48-8539-d2f4a38f033f</testCaseGuid>
+</TestCaseEntity>
