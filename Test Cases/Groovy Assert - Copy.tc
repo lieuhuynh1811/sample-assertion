@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Groovy Assert - Copy</name>
+   <tag></tag>
+   <comment>this step should not be run</comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8cece7fa-8bf7-4283-8d3e-aac0d6801341</testCaseGuid>
+</TestCaseEntity>
